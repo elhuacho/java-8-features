@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.war
+*.ear
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+.DS_Store
